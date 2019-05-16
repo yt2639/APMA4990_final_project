@@ -22,4 +22,10 @@ This is the final project repo for APMA4990 course.
 3. In **Analysis/saved** folder, the trained models using features after feature selection are saved here.
 
 
+## Division of responsibilities
 
+**Yutao Tang:** Feature selection, ensemble model, web application.
+
+**Yilin He:** Data cleaning, exploratory data analysis, XGBoost.
+
+**Ashritha Eadara:** kNN, Lasso, Ridge.
