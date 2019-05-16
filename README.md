@@ -16,7 +16,10 @@ This is the final project repo for APMA4990 course.
 ## Notice
 
 1. In **Analysis** folder, the web application is written on **Dash** (published by *Plotly*) and can only be run on local server. Specifically, under the correct python environment (for example, virtual-env), `cd` to the directory where the `Dash_web_applicatioin.py` locates, and then type in the `cmd`: `$ python Dash_web_applicatioin.py`. This is a demo image of the web app below.
-![test image](img/web_app_demo.jpeg)<center> Web App Demo </center>
+![Web App Demo](img/web_app_demo.jpeg){width:50%}
+<center> 
+Web App Demo 
+</center>
 
 2. In **Analysis** folder, `Models.py` contains the constructed XGBoost, kNN, Lasso, and Ridge models.
 
